@@ -1,0 +1,82 @@
+header, hgroup, nav, footer, figure, figcaption, aside, section, article {display:block
+}
+body {background: #ffffff; background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/91758/ptrbackground.jpg);
+      font-family: Arial, Hevetica, san-serif;
+}
+h1 { 
+        background-repeat:no-repeat;
+        background-color: #000033;
+        background-position: right;
+        color: #FFFFFF;
+}
+nav { padding: 20px 5px 5px 20px;
+      font-weight:bold;
+      float:left;
+      width:160px;
+  
+}
+nav ul{list-style-type:none;
+       margin: 0;
+       padding-left: 0;
+       font-size: 1.2em;
+}
+nav a{text-decoration:none; transition: background-color:  #e1e1d0;
+}
+nav a:link{color:#000033;}
+nav a:visited{color:#344873;}
+nav a:hover{color:#FFFFFF;}
+h1 { margin-bottom: 0;
+     padding: 10px;
+     font-family:Georgia, "Times New Roman", serif;
+}
+h2 { color: #3399CC;
+     font-family:Georgia, "Times New Roman", serif;
+     text-shadow: 1px 1px 1px #ccc;
+}
+h3 { color: #000033;
+  font-family:Georgian, "Times New Roman", serif;
+}
+dt { color: #000033;
+}
+
+#content {padding: 1px 20px 20px 20px;
+          background-color: #FFFFFF;
+          margin-left: 190px;
+          padding-left: 30px;
+}
+#content img{float:left;
+             padding-right:20px;
+             max-width:100%;
+             height:auto;
+}
+#content ul{list-style-image:url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/91758/marker.gif');
+            list-style-position: inside;
+}
+
+#wrapper {width: 80%;
+          margin: auto;
+          background-color: #90C7E3;
+          min-width: 960px;
+          box-shadow: 5px 5px 5px #000033;
+}
+footer {padding: 20px;
+        font-size:75%;
+        font-style:italic;
+        font-family:Georgia, "Times New Roman", Times, serif;
+        margin-left: 190px;
+        background-color: #FFFFFF;
+}
+table {border: 1px solid #3399CC;
+       width: 80%;
+       border-spacing: 0;
+}
+td, th {padding: 5px;
+        border: 1px solid #3399CC;
+}
+td {text-align:center;
+}
+.text {text-align:left;
+}
+tr:nth-of-type(odd) { background-color:#F5FAFC;
+}
+#content img, #content video, #conten
