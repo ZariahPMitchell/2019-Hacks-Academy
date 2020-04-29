@@ -1,3 +1,3 @@
-# 2019 Hacks-Academy
+# Hacks-Academy
 
 2019 Hacks Academy hackathon project.
