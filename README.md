@@ -126,9 +126,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Zariah Mitchell - [@LinkedIn](https://www.linkedin.com/in/zariah-mitchell-2455801a8/) or email @zariahpmitchell
 
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
+Project Link: [https://github.com/github_username/repo]()
 
 
 
