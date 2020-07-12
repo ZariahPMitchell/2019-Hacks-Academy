@@ -1,4 +1,3 @@
-# Hacks-Academy
 
 <!-- PROJECT LOGO -->
 
