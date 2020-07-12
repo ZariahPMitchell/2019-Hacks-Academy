@@ -12,7 +12,11 @@
 
   <p align="center">
     YOUR_SHORT_DESCRIPTION
-   
+    <br />
+    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://provertyreduction.netlify.app/">View Website Demo</a>
     
   </p>
 </p>
