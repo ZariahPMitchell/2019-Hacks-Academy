@@ -11,7 +11,7 @@
   <h3 align="center">Hacks Academy Hackathon Project</h3>
 
  <center> <p align="center">
-    <a href="https://povertyreduction.netlify.app/">View Website Demo</a>
+    <a href="https://povertyreduction.netlify.app">View Website Demo</a>
     
   </p>
 </p></center>
