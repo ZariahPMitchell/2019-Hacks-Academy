@@ -11,11 +11,6 @@
   <h3 align="center">Hacks Academy Hackathon Project</h3>
 
  <center> <p align="center">
-    YOUR_SHORT_DESCRIPTION
-    <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://provertyreduction.netlify.app/">View Website Demo</a>
     
   </p>
