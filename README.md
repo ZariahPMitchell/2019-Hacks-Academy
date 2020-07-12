@@ -126,7 +126,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Zariah Mitchell - [@LinkedIn](https://www.linkedin.com/in/zariah-mitchell-2455801a8/) or email @zariahpmitchell
+Zariah Mitchell - [@LinkedIn](https://www.linkedin.com/in/zariah-mitchell-2455801a8/) or email zariahpmitchell@gmail.com
 
 Project Link: [https://github.com/github_username/repo]()
 
