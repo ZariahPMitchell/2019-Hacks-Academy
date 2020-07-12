@@ -31,9 +31,6 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
@@ -58,20 +55,6 @@ Here's a blank template to get started:
 * [HTML](https://www.google.com/search?rlz=1C1CHBF_enUS871US871&sxsrf=ALeKk00nO-Fp4HtJ260lRLkPJe03hpfBIQ%3A1594524411462&ei=-4IKX93QG9r0tAbxvIW4Bg&q=HTML&oq=HTML&gs_lcp=CgZwc3ktYWIQAzIICAAQsQMQkQIyBQgAEJECMgoIABCxAxAUEIcCMgUIABCxAzIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQsQMyBQgAELEDMgUIABCxAzoHCAAQsAMQQzoECCMQJzoCCAA6BwgjEOoCECc6CAgAELEDEIMBOggILhCxAxCDAVCkBFjdF2DMHGgDcAB4BIAB3wGIAbwLkgEFNS42LjGYAQCgAQGqAQdnd3Mtd2l6sAEK&sclient=psy-ab&ved=0ahUKEwiduoWp4sbqAhVaOs0KHXFeAWcQ4dUDCAw&uact=5)
 * [CSS](https://www.google.com/search?rlz=1C1CHBF_enUS871US871&sxsrf=ALeKk01IhY0d3MOTG8gYcLkmBDsP_1_Qsw%3A1594524550927&ei=hoMKX8aSOIG6tAaMiJaACg&q=CSS&oq=CSS&gs_lcp=CgZwc3ktYWIQAzIFCAAQkQIyBQgAEJECMgcIABAUEIcCMgUIABCxAzICCAAyBQgAELEDMgUIABCxAzIFCAAQsQMyBQgAELEDMgUIABCxAzoHCAAQRxCwAzoHCCMQ6gIQJzoECCMQJzoICAAQsQMQgwE6BQguELEDOgIILlD6jgRY8pgEYP-aBGgEcAB4AIABsgGIAeACkgEDMi4xmAEAoAEBqgEHZ3dzLXdperABCg&sclient=psy-ab&ved=0ahUKEwjG7cXr4sbqAhUBHc0KHQyEBaAQ4dUDCAw&uact=5)
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
 
 ### Installation
  
