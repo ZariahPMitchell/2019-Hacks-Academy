@@ -7,8 +7,8 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Proverty Reducation</h3>
-  <h2 align="center">Hacks Academy Hackathon Project</h2>
+  <h1 align="center">Proverty Reducation</h1>
+  <h3 align="center">Hacks Academy Hackathon Project</h3>
 
   <p align="center">
     YOUR_SHORT_DESCRIPTION
