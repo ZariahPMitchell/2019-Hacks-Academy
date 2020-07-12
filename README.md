@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/950/627/datas/gallery.jpg" alt="Logo" width="500" height="500">
   </a>
 
   <h1 align="center">Proverty Reducation</h1>
