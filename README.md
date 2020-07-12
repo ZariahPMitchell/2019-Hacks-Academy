@@ -10,16 +10,16 @@
   <h1 align="center">Proverty Reduction</h1>
   <h3 align="center">Hacks Academy Hackathon Project</h3>
 
-  <p align="center">
+ <center> <p align="center">
     YOUR_SHORT_DESCRIPTION
     <br />
     <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-  <center><h3> <a href="https://provertyreduction.netlify.app/">View Website Demo</a></h3></center>
+    <a href="https://provertyreduction.netlify.app/">View Website Demo</a>
     
   </p>
-</p>
+</p></center>
 
 
 
