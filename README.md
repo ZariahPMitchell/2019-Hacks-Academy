@@ -128,8 +128,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Zariah Mitchell - [@LinkedIn](https://www.linkedin.com/in/zariah-mitchell-2455801a8/) or email zariahpmitchell@gmail.com
 
-Project Link: [https://github.com/github_username/repo]()
-
 
 
 <!-- ACKNOWLEDGEMENTS -->
