@@ -7,7 +7,7 @@
     <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/950/627/datas/gallery.jpg" alt="Logo" width="600" height="300">
   </a>
 
-  <h1 align="center">Proverty Reduction</h1>
+  <h1 align="center">Poverty Reduction</h1>
   <h3 align="center">Hacks Academy Hackathon Project</h3>
 
  <center> <p align="center">
