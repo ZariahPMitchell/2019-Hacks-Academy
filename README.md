@@ -39,11 +39,6 @@ The inspiration for the website "Poverty Reduction" is due to us witnessing pove
 It details the way to reduce poverty and how to stop it.
 
 
-
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
-
-
 ### Built With
 
 * [Sublime Text](https://www.sublimetext.com/)
@@ -65,8 +60,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
-
+Their are a lot of things I learned and disvocred while building this website. 
+I also learned how to organize and how design a website. 
+I also leanred how to writen more efficient code in oder to complete a project faster
 
 
 
