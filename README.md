@@ -50,17 +50,6 @@ Here's a blank template to get started:
 * [CSS](https://www.google.com/search?rlz=1C1CHBF_enUS871US871&sxsrf=ALeKk01IhY0d3MOTG8gYcLkmBDsP_1_Qsw%3A1594524550927&ei=hoMKX8aSOIG6tAaMiJaACg&q=CSS&oq=CSS&gs_lcp=CgZwc3ktYWIQAzIFCAAQkQIyBQgAEJECMgcIABAUEIcCMgUIABCxAzICCAAyBQgAELEDMgUIABCxAzIFCAAQsQMyBQgAELEDMgUIABCxAzoHCAAQRxCwAzoHCCMQ6gIQJzoECCMQJzoICAAQsQMQgwE6BQguELEDOgIILlD6jgRY8pgEYP-aBGgEcAB4AIABsgGIAeACkgEDMi4xmAEAoAEBqgEHZ3dzLXdperABCg&sclient=psy-ab&ved=0ahUKEwjG7cXr4sbqAhUBHc0KHQyEBaAQ4dUDCAw&uact=5)
 
 
-### Installation
- 
-1. Clone the repo
-```sh
-git clone https://github.com/github_username/repo.git
-```
-2. Install NPM packages
-```sh
-npm install
-```
-
 
 
 <!-- USAGE EXAMPLES -->
