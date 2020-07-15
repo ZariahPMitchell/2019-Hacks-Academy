@@ -35,9 +35,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+The inspiration for the website "Poverty Reduction" is due to us witnessing poverty around me growing up. 
+It details the way to reduce poverty and how to stop it.
 
-Here's a blank template to get started:
+
+
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `github_username`, `repo`, `twitter_handle`, `email`
 
