@@ -50,10 +50,7 @@ It details the way to reduce poverty and how to stop it.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+This website is to spread more awareness about poverty. Proverty effects thousands of people across the world.
 
 
 
@@ -62,7 +59,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 Their are a lot of things I learned and disvocred while building this website. 
 I also learned how to organize and how design a website. 
-I also leanred how to writen more efficient code in oder to complete a project faster
+I also leanred how to writen more efficient code in oder to complete a project faster.
+I had a alot of fun build a well desined website.
 
 
 
