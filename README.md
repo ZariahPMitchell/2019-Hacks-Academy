@@ -27,7 +27,7 @@
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [Contact](#contact)
-* [Gallery](#Gallery)
+
 
 
 
@@ -96,10 +96,3 @@ Contributions are what make the open source community such an amazing place to b
 ## Contact
 
 Zariah Mitchell - [@LinkedIn](https://www.linkedin.com/in/zariah-mitchell-2455801a8/) or email zariahpmitchell@gmail.com
-
-<!-- Gallery -->
-## Gallery
-
-* [](https://povertyreduction.netlify.app)
-* []()
-* []()
